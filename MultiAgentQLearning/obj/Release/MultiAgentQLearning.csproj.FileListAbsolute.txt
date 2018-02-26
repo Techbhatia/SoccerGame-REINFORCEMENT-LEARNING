@@ -1,0 +1,8 @@
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\bin\Release\MultiAgentQLearning.exe.config
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\bin\Release\MultiAgentQLearning.exe
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\bin\Release\MultiAgentQLearning.pdb
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\bin\Release\Microsoft.Solver.Foundation.dll
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\bin\Release\Microsoft.Solver.Foundation.xml
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\obj\Release\MultiAgentQLearning.exe
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\obj\Release\MultiAgentQLearning.pdb
+C:\Dev\Tau Libraries\Sandbox\Ryan\MultiAgentQLearning\MultiAgentQLearning\obj\Release\MultiAgentQLearning.csprojResolveAssemblyReference.cache
